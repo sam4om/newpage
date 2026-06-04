@@ -1,0 +1,36 @@
+engagement_id,engagement_date,engagement_type,venue_city,venue_country,adviser_id,adviser_name,role,agreed_fee_gbp,crm_recorded_total_gbp,hospitality_provided,status
+ENG-001,2025-01-10,Product Roadshow,London,GB,ADV-001,Sarah Mitchell,Presenter,1500,2100,TRUE,Completed
+ENG-002,2025-01-14,Advisory Panel,Paris,FR,ADV-004,Pierre Dubois,Panellist,2000,2800,TRUE,Completed
+ENG-003,2025-01-17,Due Diligence Session,Berlin,DE,ADV-003,Elena Richter,Reviewer,1800,2400,FALSE,Completed
+ENG-004,2025-01-22,Product Roadshow,Milan,IT,ADV-005,Marco Ferretti,Presenter,1200,1750,TRUE,Completed
+ENG-005,2025-01-28,Investment Conference,London,GB,ADV-002,James Holloway,Chair,2500,3200,TRUE,Completed
+ENG-006,2025-02-04,Product Roadshow,Manchester,GB,ADV-006,Priya Sharma,Presenter,1500,2050,TRUE,Completed
+ENG-007,2025-02-07,Advisory Panel,Frankfurt,DE,ADV-007,Thomas Klein,Panellist,2000,2900,TRUE,Completed
+ENG-008,2025-02-11,Due Diligence Session,Paris,FR,ADV-008,Anne Leclerc,Reviewer,1800,2500,FALSE,Completed
+ENG-009,2025-02-14,Product Roadshow,London,GB,ADV-009,Robert Walsh,Presenter,1200,1800,TRUE,Completed
+ENG-010,2025-02-19,Advisory Panel,Munich,DE,ADV-010,Claudia Bauer,Panellist,2000,2700,TRUE,Completed
+ENG-011,2025-02-21,Investment Conference,Milan,IT,ADV-011,Luca Marino,Chair,2500,3300,TRUE,Completed
+ENG-012,2025-02-25,Due Diligence Session,Leeds,GB,ADV-012,Hannah Clarke,Reviewer,1800,2400,FALSE,Completed
+ENG-013,2025-03-03,Product Roadshow,Bordeaux,FR,ADV-013,François Martin,Presenter,1500,2100,TRUE,Completed
+ENG-014,2025-03-06,Advisory Panel,Hannover,DE,ADV-014,Stefan Vogel,Panellist,2000,2900,TRUE,Completed
+ENG-015,2025-03-10,Product Roadshow,Milan,IT,ADV-015,Sofia Conti,Presenter,1200,1850,TRUE,Completed
+ENG-016,2025-03-12,Due Diligence Session,Dublin,IE,ADV-016,Michael Barrett,Reviewer,1000,1400,FALSE,Completed
+ENG-017,2025-03-14,Product Roadshow,Stockholm,SE,ADV-017,Ingrid Hansen,Presenter,1500,2100,TRUE,Completed
+ENG-018,2025-03-17,Advisory Panel,Madrid,ES,ADV-018,Carlos Mendez,Panellist,2000,2750,TRUE,Completed
+ENG-019,2025-03-19,Due Diligence Session,Cambridge,GB,ADV-019,Natalie Brewer,Reviewer,1800,2450,FALSE,Completed
+ENG-020,2025-03-21,Product Roadshow,London,GB,ADV-020,David Okonkwo,Presenter,1200,1750,TRUE,Completed
+ENG-021,2025-03-24,Investment Conference,Lyon,FR,ADV-021,Marie-Claire Fontaine,Chair,2000,2000,TRUE,Completed
+ENG-022,2025-03-26,Product Roadshow,Freiburg,DE,ADV-022,Andreas Weiss,Presenter,1500,2200,TRUE,Completed
+ENG-023,2025-03-28,Advisory Panel,Bologna,IT,ADV-023,Isabella Romano,Panellist,2000,2800,TRUE,Completed
+ENG-024,2025-04-02,Due Diligence Session,Dundee,GB,ADV-024,Fiona Campbell,Reviewer,800,900,FALSE,Completed
+ENG-025,2025-04-04,Product Roadshow,Strasbourg,FR,ADV-025,Jean-Paul Moreau,Presenter,1500,2050,TRUE,Completed
+ENG-026,2025-04-07,Product Roadshow,London,GB,ADV-001,Sarah Mitchell,Presenter,1500,2100,TRUE,Completed
+ENG-027,2025-04-09,Advisory Panel,Paris,FR,ADV-004,Pierre Dubois,Panellist,2000,2900,TRUE,Completed
+ENG-028,2025-04-11,Due Diligence Session,London,GB,ADV-002,James Holloway,Reviewer,1800,2500,FALSE,Completed
+ENG-029,2025-04-14,Investment Conference,Berlin,DE,ADV-003,Elena Richter,Chair,1500,2800,TRUE,Completed
+ENG-030,2025-04-16,Product Roadshow,Milan,IT,ADV-005,Marco Ferretti,Presenter,1200,1900,TRUE,Completed
+ENG-031,2025-04-18,Due Diligence Session,London,GB,ADV-009,Robert Walsh,Reviewer,1800,2400,FALSE,Completed
+ENG-032,2025-04-22,Product Roadshow,Munich,DE,ADV-010,Claudia Bauer,Presenter,1200,1900,TRUE,Completed
+ENG-033,2025-04-24,Advisory Panel,Paris,FR,ADV-008,Anne Leclerc,Panellist,1500,1700,TRUE,Completed
+ENG-034,2025-04-28,Product Roadshow,Milan,IT,ADV-015,Sofia Conti,Presenter,1500,2100,TRUE,Completed
+ENG-035,2025-04-30,Due Diligence Session,London,GB,ADV-020,David Okonkwo,Reviewer,1800,2550,FALSE,Completed

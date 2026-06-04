@@ -1,0 +1,26 @@
+adviser_id,full_name,specialisation,firm_name,city,country,inducement_disclosure_required
+ADV-001,Sarah Mitchell,Retirement Planning,Blackthorn Financial Planning,London,GB,TRUE
+ADV-002,James Holloway,Wealth Management,Sterling Wealth Advisors,London,GB,TRUE
+ADV-003,Elena Richter,Corporate Benefits,Weimar Finanzberatung GmbH,Berlin,DE,TRUE
+ADV-004,Pierre Dubois,Estate Planning,Dubois Patrimoine Conseil,Paris,FR,TRUE
+ADV-005,Marco Ferretti,Retirement Planning,Ferretti & Associati SFA,Milan,IT,TRUE
+ADV-006,Priya Sharma,Mortgage & Protection,Crestview IFA Ltd,Manchester,GB,TRUE
+ADV-007,Thomas Klein,Wealth Management,Klein Vermögensverwaltung,Frankfurt,DE,TRUE
+ADV-008,Anne Leclerc,Retirement Planning,Leclerc Gestion Privée,Paris,FR,TRUE
+ADV-009,Robert Walsh,Corporate Benefits,Oakmont Financial Services,London,GB,TRUE
+ADV-010,Claudia Bauer,Estate Planning,Bauer & Partner Finanzplanung,Munich,DE,TRUE
+ADV-011,Luca Marino,Wealth Management,Marino Consulenza Finanziaria,Milan,IT,TRUE
+ADV-012,Hannah Clarke,Retirement Planning,Pinnacle Wealth Management,Leeds,GB,TRUE
+ADV-013,François Martin,Corporate Benefits,Martin Conseil Financier,Bordeaux,FR,TRUE
+ADV-014,Stefan Vogel,Mortgage & Protection,Vogel Finanzdienstleistungen,Hannover,DE,TRUE
+ADV-015,Sofia Conti,Retirement Planning,Conti Wealth Advisory,Milan,IT,TRUE
+ADV-016,Michael Barrett,Wealth Management,Greystone Advisory,Dublin,IE,TRUE
+ADV-017,Ingrid Hansen,Estate Planning,Nordisk Förmögenhetsrådgivning,Stockholm,SE,TRUE
+ADV-018,Carlos Mendez,Retirement Planning,Mendez Asesoría Patrimonial,Madrid,ES,TRUE
+ADV-019,Natalie Brewer,Corporate Benefits,Whitmore Financial,Cambridge,GB,TRUE
+ADV-020,David Okonkwo,Retirement Planning,Ashford Wealth Planning,London,GB,TRUE
+ADV-021,Marie-Claire Fontaine,Wealth Management,Fontaine & Fils Conseil,Lyon,FR,TRUE
+ADV-022,Andreas Weiss,Corporate Benefits,Weiss & Kollegen Beratung,Freiburg,DE,TRUE
+ADV-023,Isabella Romano,Estate Planning,Romano Pianificazione Finanziaria,Bologna,IT,TRUE
+ADV-024,Fiona Campbell,Mortgage & Protection,Kingswood IFA,Dundee,GB,TRUE
+ADV-025,Jean-Paul Moreau,Retirement Planning,Moreau Gestion de Fortune,Strasbourg,FR,TRUE
