@@ -1,0 +1,26 @@
+adviser_id,full_name,firm_name,country,advisory_fees_gbp,hospitality_gbp,travel_accommodation_gbp,training_cpd_gbp,total_disclosed_inducement_gbp,inducement_disclosure_required,data_quality_flags
+ADV-001,Sarah Mitchell,Blackthorn Financial Planning,GB,3000,500.0,700.0,0.0,4200.0,True,QUARTERLY_SETTLEMENT_PRESENT
+ADV-002,James Holloway,Sterling Wealth Advisors,GB,4300,650.0,750.0,0.0,5700.0,True,QUARTERLY_SETTLEMENT_PRESENT
+ADV-003,Elena Richter,Weimar Finanzberatung GmbH,DE,3300,650.0,1950.0,0.0,5900.0,True,CRM_TOTAL_VS_COMPONENTS_MISMATCH|QUARTERLY_SETTLEMENT_PRESENT
+ADV-004,Pierre Dubois,Dubois Patrimoine Conseil,FR,4000,650.0,1050.0,0.0,5700.0,True,QUARTERLY_SETTLEMENT_PRESENT
+ADV-005,Marco Ferretti,Ferretti & Associati SFA,IT,2400,550.0,700.0,0.0,3650.0,True,CRM_TOTAL_VS_COMPONENTS_MISMATCH|QUARTERLY_SETTLEMENT_PRESENT
+ADV-006,Priya Sharma,Crestview IFA Ltd,GB,1500,200.0,350.0,0.0,2050.0,True,QUARTERLY_SETTLEMENT_PRESENT
+ADV-007,Thomas Klein,Klein Vermögensverwaltung,DE,2000,350.0,550.0,0.0,2900.0,True,QUARTERLY_SETTLEMENT_PRESENT
+ADV-008,Anne Leclerc,Leclerc Gestion Privée,FR,3300,600.0,700.0,0.0,4600.0,True,CRM_TOTAL_VS_COMPONENTS_MISMATCH|ENGAGEMENT_NOT_FOUND|QUARTERLY_SETTLEMENT_PRESENT
+ADV-009,Robert Walsh,Oakmont Financial Services,GB,3000,500.0,700.0,0.0,4200.0,True,QUARTERLY_SETTLEMENT_PRESENT
+ADV-010,Claudia Bauer,Bauer & Partner Finanzplanung,DE,3200,700.0,700.0,0.0,4600.0,True,QUARTERLY_SETTLEMENT_PRESENT
+ADV-011,Luca Marino,Marino Consulenza Finanziaria,IT,2500,350.0,450.0,0.0,3300.0,True,
+ADV-012,Hannah Clarke,Pinnacle Wealth Management,GB,1800,250.0,350.0,0.0,2400.0,True,ENGAGEMENT_NOT_FOUND
+ADV-013,François Martin,Martin Conseil Financier,FR,1500,250.0,350.0,0.0,2100.0,True,
+ADV-014,Stefan Vogel,Vogel Finanzdienstleistungen,DE,2000,350.0,550.0,0.0,2900.0,True,
+ADV-015,Sofia Conti,Conti Wealth Advisory,IT,2700,550.0,700.0,0.0,3950.0,True,CRM_TOTAL_VS_COMPONENTS_MISMATCH
+ADV-016,Michael Barrett,Greystone Advisory,IE,1000,300.0,500.0,0.0,1800.0,True,CRM_TOTAL_VS_COMPONENTS_MISMATCH
+ADV-017,Ingrid Hansen,Nordisk Förmögenhetsrådgivning,SE,1500,250.0,350.0,0.0,2100.0,True,
+ADV-018,Carlos Mendez,Mendez Asesoría Patrimonial,ES,2000,350.0,400.0,0.0,2750.0,True,
+ADV-019,Natalie Brewer,Whitmore Financial,GB,1800,300.0,350.0,0.0,2450.0,True,
+ADV-020,David Okonkwo,Ashford Wealth Planning,GB,3000,550.0,750.0,0.0,4300.0,True,ENGAGEMENT_NOT_FOUND
+ADV-021,Marie-Claire Fontaine,Fontaine & Fils Conseil,FR,2000,350.0,250.0,0.0,2600.0,True,CRM_TOTAL_VS_COMPONENTS_MISMATCH
+ADV-022,Andreas Weiss,Weiss & Kollegen Beratung,DE,1500,350.0,350.0,0.0,2200.0,True,CRM_TOTAL_VS_COMPONENTS_MISMATCH
+ADV-023,Isabella Romano,Romano Pianificazione Finanziaria,IT,2000,350.0,450.0,0.0,2800.0,True,
+ADV-024,Fiona Campbell,Kingswood IFA,GB,800,200.0,200.0,0.0,1200.0,True,CRM_TOTAL_VS_COMPONENTS_MISMATCH
+ADV-025,Jean-Paul Moreau,Moreau Gestion de Fortune,FR,1500,200.0,350.0,0.0,2050.0,True,

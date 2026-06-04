@@ -1,0 +1,28 @@
+adviser_id,engagement_id,claim_id,flag_code,detail
+ADV-001,,QS-Q1-001,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 600.0 for A-00001; excluded from totals
+ADV-002,,QS-Q1-002,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 700.0 for A-00002; excluded from totals
+ADV-003,ENG-029,,CRM_TOTAL_VS_COMPONENTS_MISMATCH,crm_recorded_total=2800 vs agreed+claims=3500.00
+ADV-003,,QS-Q1-003,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 600.0 for A-00003; excluded from totals
+ADV-004,,QS-Q1-004,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 800.0 for A-00004; excluded from totals
+ADV-005,ENG-030,,CRM_TOTAL_VS_COMPONENTS_MISMATCH,crm_recorded_total=1900 vs agreed+claims=2175.00
+ADV-005,,QS-Q1-005,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 550.0 for A-00005; excluded from totals
+ADV-006,,QS-Q1-006,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 550.0 for A-00006; excluded from totals
+ADV-007,,QS-Q1-007,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 900.0 for A-00007; excluded from totals
+ADV-008,ENG-033,,CRM_TOTAL_VS_COMPONENTS_MISMATCH,crm_recorded_total=1700 vs agreed+claims=2100.00
+ADV-008,ENG-037,CLM-081,ENGAGEMENT_NOT_FOUND,engagement_ref 'ENG-037' not present in engagements.csv
+ADV-008,,QS-Q1-008,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 700.0 for A-00008; excluded from totals
+ADV-009,,QS-Q1-009,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 600.0 for A-00009; excluded from totals
+ADV-010,,QS-Q1-010,QUARTERLY_SETTLEMENT_PRESENT,Quarterly settlement of 700.0 for A-00010; excluded from totals
+ADV-012,ENG-036,CLM-080,ENGAGEMENT_NOT_FOUND,engagement_ref 'ENG-036' not present in engagements.csv
+ADV-015,ENG-015,,CRM_TOTAL_VS_COMPONENTS_MISMATCH,crm_recorded_total=1850 vs agreed+claims=2100.00
+ADV-016,ENG-016,,CRM_TOTAL_VS_COMPONENTS_MISMATCH,crm_recorded_total=1400 vs agreed+claims=1800.00
+ADV-020,ENG-038,CLM-082,ENGAGEMENT_NOT_FOUND,engagement_ref 'ENG-038' not present in engagements.csv
+ADV-021,ENG-021,,CRM_TOTAL_VS_COMPONENTS_MISMATCH,crm_recorded_total=2000 vs agreed+claims=2600.00
+ADV-022,ENG-022,,CRM_TOTAL_VS_COMPONENTS_MISMATCH,crm_recorded_total=2200 vs agreed+claims=2510.00
+ADV-024,ENG-024,,CRM_TOTAL_VS_COMPONENTS_MISMATCH,crm_recorded_total=900 vs agreed+claims=1200.00
+ADV-026,ENG-015,CLM-083,ADVISER_ENGAGEMENT_MISMATCH,claim adviser=ADV-026 but engagement.adviser=ADV-015
+ADV-027,ENG-022,CLM-084,ADVISER_ENGAGEMENT_MISMATCH,claim adviser=ADV-027 but engagement.adviser=ADV-022
+ADV-028,ENG-030,CLM-085,ADVISER_ENGAGEMENT_MISMATCH,claim adviser=ADV-028 but engagement.adviser=ADV-005
+,ENG-015,CLM-083,ADVISER_NOT_IN_REGISTRY,Claim adviser_ref 'A-00026' does not map to any registry adviser
+,ENG-022,CLM-084,ADVISER_NOT_IN_REGISTRY,Claim adviser_ref 'A-00027' does not map to any registry adviser
+,ENG-030,CLM-085,ADVISER_NOT_IN_REGISTRY,Claim adviser_ref 'A-00028' does not map to any registry adviser
